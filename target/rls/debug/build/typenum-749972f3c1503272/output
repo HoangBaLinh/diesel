@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=e:\developer\diesel\target\rls\debug\build\typenum-749972f3c1503272\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=e:\developer\diesel\target\rls\debug\build\typenum-749972f3c1503272\out\op.rs
